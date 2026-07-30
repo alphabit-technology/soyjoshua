@@ -1,0 +1,146 @@
+{
+  "App": {
+    "name": "soyjoshua",
+    "version": "1.0.8"
+  },
+  "documents": {
+    "Builder:Page Builder": {
+      "__app__": "loopar"
+    },
+    "Entity:Module": {
+      "__app__": "loopar"
+    },
+    "Entity:App": {
+      "__app__": "loopar"
+    },
+    "App:soyjoshua": {
+      "type": "Web App",
+      "name": "soyjoshua",
+      "description": "Soy Joshua — Creador de contenido hondureño",
+      "version": "1.0.8",
+      "autor": "alfredrz2012@gmail.com",
+      "icon": "Clapperboard",
+      "footer_height": "",
+      "col_padding": "",
+      "col_margin": "",
+      "logo": "[{\"name\":\"soyjoshua-logo-navy.svg\",\"size\":10045,\"type\":\"image\",\"src\":\"/assets/public/soyjoshua-logo-navy.svg\"}]",
+      "logo_dark": "[{\"name\":\"soyjoshua-logo-blanco.svg\",\"size\":10045,\"type\":\"image\",\"src\":\"/assets/public/soyjoshua-logo-blanco.svg\"}]",
+      "logo_mini": "[{\"name\":\"soyjoshua-monograma-navy.svg\",\"size\":2882,\"type\":\"image\",\"src\":\"/assets/public/soyjoshua-monograma-navy.svg\"}]",
+      "logo_mini_dark": "[{\"name\":\"soyjoshua-monograma-blanco.svg\",\"size\":2882,\"type\":\"image\",\"src\":\"/assets/public/soyjoshua-monograma-blanco.svg\"}]",
+      "favicon": "[{\"name\":\"soyjoshua-monograma-blanco.svg\",\"size\":2882,\"type\":\"image\",\"src\":\"/assets/public/soyjoshua-monograma-blanco.svg\"}]",
+      "logo_width": 50,
+      "logo_height": "70",
+      "has_footer": 1,
+      "footer": "<div style=\"display: flex; flex-wrap: wrap; justify-content: space-between; padding: 40px 20px; color: inherit; gap: 30px;\">\r\n  <div style=\"flex: 1; min-width: 280px;\">\r\n    ### 🎬 Soy Joshua\r\n\r\n    Joven creador de contenido hondureño 🇭🇳. Vistas de Honduras, autobuses y contenido educativo para toda la familia.\r\n\r\n    📘 **Facebook:** [Soy Joshua](https://www.facebook.com/people/Soy-Joshua/61557748516011/)\r\n    ✉️ **Colaboraciones:** [contacto@soyjoshua.com](mailto\\:contacto@soyjoshua.com)\r\n  </div>\r\n\r\n  <div style=\"flex: 1; min-width: 280px;\">\r\n    ### 📺 Mi Contenido\r\n\r\n    * Vistas de Honduras\r\n    * Autobuses de Honduras\r\n    * Contenido Educativo\r\n    * Colaboraciones con marcas\r\n  </div>\r\n</div>",
+      "has_copyright": 1,
+      "copyright": "<div style=\"text-align: center; padding: 20px; border-top: 1px solid rgba(128,128,128,0.3); color: inherit; font-size: 0.9em;\">\r\n  © 2026 **Soy Joshua**. Todos los derechos reservados. | Gestionado por su familia\r\n\r\n  <span style=\"opacity: 0.6; font-size: 0.85em;\">Powered by </span><a href=\"https://loopar.build\" target=\"_blank\" style=\"color: inherit;\">Loopar</a>\r\n</div>",
+      "fixed": 1,
+      "logo_position": "center",
+      "rounded": "sm",
+      "show_user_section": 0,
+      "solid": 0,
+      "opacity": "",
+      "menu_items": [
+        {
+          "parent_document": "App",
+          "name": "t4aHyN3bAepVRul",
+          "page": "Soyjoshua Home",
+          "link": "Inicio",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "TTcam6K1ts5BV2i",
+          "page": "Soyjoshua Quien Soy",
+          "link": "Quien Soy",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "vnu1877tgocvr62",
+          "page": "Soyjoshua Videos",
+          "link": "Videos",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "T14i8EadRr2OIDf",
+          "page": "Soyjoshua Galeria",
+          "link": "Galeria",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "FfZe8pgv49mKc06",
+          "page": "Soyjoshua Colabora",
+          "link": "Colabora",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        },
+        {
+          "parent_document": "App",
+          "name": "OsTlbR7vuG0nP84",
+          "page": "Soyjoshua Contacto",
+          "link": "Contacto",
+          "parent_menu": null,
+          "document_parent_name": null,
+          "router_only": 0
+        }
+      ],
+      "menu_actions": [],
+      "info": ""
+    },
+    "Entity:Module Group": {
+      "__app__": "loopar"
+    },
+    "Module Group:modules": {
+      "name": "modules",
+      "description": "Modules",
+      "in_sidebar": 1
+    },
+    "Module:soyjoshua": {
+      "name": "soyjoshua",
+      "description": "soyjoshua",
+      "app_name": "soyjoshua",
+      "module_group": "modules",
+      "icon": "Clapperboard",
+      "in_sidebar": 1
+    },
+    "Page Builder:Soyjoshua Colabora": {
+      "__root__": "/apps/soyjoshua/modules/soyjoshua/pages/soyjoshua-colabora"
+    },
+    "Entity:Menu Item": {
+      "__app__": "loopar"
+    },
+    "Entity:Menu Action": {
+      "__app__": "loopar"
+    },
+    "Page Builder:Soyjoshua Contacto": {
+      "__root__": "/apps/soyjoshua/modules/soyjoshua/pages/soyjoshua-contacto"
+    },
+    "Page Builder:Soyjoshua Galeria": {
+      "__root__": "/apps/soyjoshua/modules/soyjoshua/pages/soyjoshua-galeria"
+    },
+    "Page Builder:Soyjoshua Home": {
+      "__root__": "/apps/soyjoshua/modules/soyjoshua/pages/soyjoshua-home"
+    },
+    "Page Builder:Soyjoshua Quien Soy": {
+      "__root__": "/apps/soyjoshua/modules/soyjoshua/pages/soyjoshua-quien-soy"
+    },
+    "Page Builder:Soyjoshua Videos": {
+      "__root__": "/apps/soyjoshua/modules/soyjoshua/pages/soyjoshua-videos"
+    }
+  },
+  "postInstaller": {
+    "App:soyjoshua": "link"
+  }
+}
