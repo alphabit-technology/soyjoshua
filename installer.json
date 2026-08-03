@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "soyjoshua",
-    "version": "1.0.86"
+    "version": "1.0.87"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -17,7 +17,7 @@
       "type": "Web App",
       "name": "soyjoshua",
       "description": "Soy Joshua — Creador de contenido hondureño",
-      "version": "1.0.86",
+      "version": "1.0.87",
       "autor": "alfredrz2012@gmail.com",
       "icon": "Clapperboard",
       "footer_height": "",
