@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "707750390_122253872702258283_8295101005813553174_n.jpg",
+  "type": "image",
+  "extention": "jpg",
+  "size": 336587,
+  "storage_driver": "cloudinary",
+  "external_id": "loopar/dev/soyjoshua/public/707750390_122253872702258283_8295101005813553174_n_jrmgbo",
+  "external_url": "https://res.cloudinary.com/dxwex1ys6/image/upload/v1786826353/loopar/dev/soyjoshua/public/707750390_122253872702258283_8295101005813553174_n_jrmgbo.jpg",
+  "src": "https://res.cloudinary.com/dxwex1ys6/image/upload/v1786826353/loopar/dev/soyjoshua/public/707750390_122253872702258283_8295101005813553174_n_jrmgbo.jpg",
+  "previewSrc": "https://res.cloudinary.com/dxwex1ys6/image/upload/c_fill,w_200,h_200,f_auto,q_auto/v1786826353/loopar/dev/soyjoshua/public/707750390_122253872702258283_8295101005813553174_n_jrmgbo.jpg",
+  "app": "soyjoshua",
+  "visibility": "public",
+  "updated_at": "2026-08-15T20:39:14.122Z"
+}
