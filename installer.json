@@ -1,7 +1,7 @@
 {
   "App": {
     "name": "soyjoshua",
-    "version": "1.0.140"
+    "version": "1.0.142"
   },
   "documents": {
     "Builder:Page Builder": {
@@ -17,7 +17,7 @@
       "type": "Web App",
       "name": "soyjoshua",
       "description": "Soy Joshua — Creador de contenido hondureño",
-      "version": "1.0.140",
+      "version": "1.0.142",
       "autor": "alfredrz2012@gmail.com",
       "icon": "Clapperboard",
       "footer_height": "",
@@ -43,69 +43,69 @@
       "menu_items": [
         {
           "parent_document": "App",
-          "name": "USePJ4tkWdm81Gv",
+          "name": "IcUCl2MuA74Bp3J",
           "page": "Soyjoshua Home",
           "link": "Inicio",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "Bup54MVfOnoL6E2",
+          "name": "Q127p82P18Xjh0y",
           "page": "Soyjoshua Quien Soy",
           "link": "Quien Soy",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "bJuv57oInNdYwe7",
+          "name": "Q9twX4f7sSOgBpd",
           "page": "Soyjoshua Videos",
           "link": "Videos",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "odc876b28H3XBAR",
+          "name": "L5Ac7vt1hZ98YkO",
           "page": "Soyjoshua Galeria",
           "link": "Galeria",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "T1kZQ67Cpt42OMl",
+          "name": "E641sd7ML8lCWtm",
           "page": "Soyjoshua Colabora",
           "link": "Colabora",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         },
         {
           "parent_document": "App",
-          "name": "yaoY5ph2yI627mk",
+          "name": "fCXRVFBIHOJ9WNA",
           "page": "Soyjoshua Contacto",
           "link": "Contacto",
           "parent_menu": null,
-          "document_parent_name": null,
-          "router_only": 0
+          "router_only": 0,
+          "document_parent_name": null
         }
       ],
       "menu_actions": [
         {
           "parent_document": "App",
-          "name": "CK0FXT846gq71m2",
+          "name": "RSeLi47dPCuEJ1B",
           "icon": "SiFacebook",
           "action": "https://www.facebook.com/people/Soy-Joshua/61557748516011/"
         },
         {
           "parent_document": "App",
-          "name": "Y6M26IE4mtO7Grd",
+          "name": "Js10CrXa7YpZL9n",
           "icon": "SiYoutube",
           "action": "https://www.youtube.com/@soyjoshuahn"
         }
